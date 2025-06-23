@@ -2,9 +2,9 @@
 
 A crowdsourced directory of **non-Filipino-owned companies** that:
 - Operate in the Philippines 🇵🇭 or hire remote Filipino professionals
-- Offer **fair, competitive salaries and benefits** to Filipino workers 💼💰
+- Offer **fair, competitive salaries and benefits** to Filipino workers—especially in **cybersecurity** 💼🛡️
 
-> Helping Filipino talent find global companies that value skills—not just location.
+> Helping Filipino cybersecurity professionals find global companies that value skills—not just location.
 
 ---
 
@@ -12,12 +12,11 @@ A crowdsourced directory of **non-Filipino-owned companies** that:
 
 This project was inspired by [a blog post](https://moto.h4ck3r.sh/why-global-companies-should-pay-global-salaries/) that explores why global companies should pay global salaries—not local rates—when hiring remote workers. It highlights the imbalance in compensation practices and advocates for a fairer, talent-first approach to remote hiring.
 
+Cybersecurity professionals in the Philippines often deliver the same high-quality results as their global peers but are frequently underpaid simply because of where they live. This project aims to:
 
-Not all global companies that hire Filipinos offer fair compensation. This project aims to:
-
-- Highlight employers who **fairly compensate** Filipino professionals
-- Promote remote opportunities for skilled Filipino talent
-- Serve as a reference for job seekers, recruiters, and advocates
+- Highlight employers who **fairly compensate** Filipino cybersecurity talent
+- Promote remote opportunities for skilled Cybersecurity professionals
+- Serve as a reference for job seekers, recruiters, and community advocates in the cybersecurity field
 
 ---
 
@@ -27,8 +26,8 @@ To be listed, a company must meet at least **two** of the following:
 
 - Operates globally and hires in the Philippines
 - Is **not Filipino-owned**
-- Pays Filipino workers close to regional/global market standards
-- Has a reputation for fair compensation or inclusive hiring
+- Pays Filipino cybersecurity professionals close to global market standards
+- Has a reputation for fair compensation or inclusive hiring practices
 
 ---
 
@@ -68,8 +67,8 @@ Maintained by [AJ Dumanhug](https://github.com/ajdumanhug) and contributors. PRs
 
 ## 📣 Spread the Word
 
-Know someone seeking fair, global job opportunities?
+Know a Filipino cybersecurity practitioner seeking fair global job opportunities?
 
-👉 Share this repo to support Filipino professionals in the international job market.
+👉 Share this repo to support Cybersecurity professionals in the Philippines.
 
 **Mabuhay ang manggagawang Pilipino! 🇵🇭💪**
