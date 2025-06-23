@@ -40,6 +40,9 @@ To be listed, a company must meet at least **two** of the following:
 | **NCC Group** | England | ✅ - Taguig | ✅ - Hybrid | https://www.linkedin.com/company/ncc-group |
 | **Continent 8** | USA | ✅ - Makati | ✅ - Hybrid | https://www.linkedin.com/company/continent-8-technologies |
 | **Kroll** | USA | ✅ - Makati | ✅ - Hybrid | https://www.linkedin.com/company/kroll |
+| **Bright Defense** | USA | ❌ | ✅ - Fully Remote | https://www.linkedin.com/company/brightdefense/ |
+| **CommandLink** | USA | ❌ | ✅ - Fully Remote | https://www.linkedin.com/company/commandlink/ |
+| **Check Point** | USA | ✅ - Makati | ✅ - Hybrid | https://www.linkedin.com/company/check-point-software-technologies |
 
 ---
 
