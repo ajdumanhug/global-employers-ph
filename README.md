@@ -34,8 +34,6 @@ To be listed, a company must meet at least **two** of the following:
 
 ## 📋 Company List
 
-The main list will be maintained in [`companies.md`](./companies.md) or later in a structured format like CSV.
-
 | Company Name   | HQ Country | PH Office | Remote OK | LinkedIn |
 | --- | --- | --- | --- | --- |
 | **N‑able** | USA | ✅ - Taguig | ✅ - Hybrid | https://www.linkedin.com/company/n-able |
