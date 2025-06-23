@@ -47,7 +47,7 @@ To be listed, a company must meet at least **two** of the following:
 ## ✍️ How to Contribute
 
 1. **Fork** this repository
-2. Add or update entries in `companies.md` or the data files
+2. Add or update entries
 3. **Submit a Pull Request**
 
 Or [open an issue](https://github.com/ajdumanhug/global-employers-ph/issues) with company details.
@@ -62,7 +62,7 @@ This is a community-maintained project. Inclusion does not guarantee job offers 
 
 ## 👨‍💻 Maintainers
 
-Maintained by [@AJ](https://github.com/ajdumanhug) and contributors. PRs and suggestions welcome!
+Maintained by [AJ Dumanhug](https://github.com/ajdumanhug) and contributors. PRs and suggestions welcome!
 
 ---
 
