@@ -1,4 +1,4 @@
-# Global Employers PH 🇵🇭
+# Global Cybersecurity Employers PH 🇵🇭
 
 A crowdsourced directory of **non-Filipino-owned companies** that:
 - Operate in the Philippines 🇵🇭 or hire remote Filipino professionals
