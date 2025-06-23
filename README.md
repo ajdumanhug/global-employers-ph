@@ -38,7 +38,7 @@ To be listed, a company must meet at least **two** of the following:
 | --- | --- | --- | --- | --- |
 | **N‑able** | USA | ✅ - Taguig | ✅ - Hybrid | https://www.linkedin.com/company/n-able |
 | **Theos** | Singapore | ✅ - Taguig | ✅ - Hybrid | https://www.linkedin.com/company/theos-cyber |
-| **NCC Group** | Englad | ✅ - Taguig | ✅ - Hybrid | https://www.linkedin.com/company/ncc-group |
+| **NCC Group** | England | ✅ - Taguig | ✅ - Hybrid | https://www.linkedin.com/company/ncc-group |
 | **Continent 8** | USA | ✅ - Makati | ✅ - Hybrid | https://www.linkedin.com/company/continent-8-technologies |
 | **Kroll** | USA | ✅ - Makati | ✅ - Hybrid | https://www.linkedin.com/company/kroll |
 
