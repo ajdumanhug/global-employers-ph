@@ -48,6 +48,7 @@ To be listed, a company must meet at least **two** of the following:
 | **Bright Defense** | USA | ❌ | ✅ - Fully Remote | - | https://www.linkedin.com/company/brightdefense |
 | **CommandLink** | USA | ❌ | ✅ - Fully Remote | - | https://www.linkedin.com/company/commandlink |
 | **Infotrust** | Australia | ❌ | ✅ - Fully Remote | - | https://www.linkedin.com/company/infotrustco |
+| **NEVERHACK** | France |  ❌ | ✅ - Fully Remote | - | https://www.linkedin.com/company/neverhack-france |
 
 ---
 
