@@ -33,17 +33,18 @@ To be listed, a company must meet at least **two** of the following:
 
 ## 📋 Company List
 
-| Company Name   | HQ Country | PH Office | Remote OK | LinkedIn |
+| Company Name   | HQ Country | PH Office | Remote OK | SEC Number | LinkedIn |
 | --- | --- | --- | --- | --- |
-| **N‑able** | USA | ✅ - Taguig | ✅ - Hybrid | https://www.linkedin.com/company/n-able |
-| **Theos** | Singapore | ✅ - Taguig | ✅ - Hybrid | https://www.linkedin.com/company/theos-cyber |
-| **NCC Group** | England | ✅ - Taguig | ✅ - Hybrid | https://www.linkedin.com/company/ncc-group |
-| **Continent 8** | USA | ✅ - Makati | ✅ - Hybrid | https://www.linkedin.com/company/continent-8-technologies |
-| **Kroll** | USA | ✅ - Makati | ✅ - Hybrid | https://www.linkedin.com/company/kroll |
-| **Bright Defense** | USA | ❌ | ✅ - Fully Remote | https://www.linkedin.com/company/brightdefense/ |
-| **CommandLink** | USA | ❌ | ✅ - Fully Remote | https://www.linkedin.com/company/commandlink/ |
-| **Check Point** | USA | ✅ - Makati | ✅ - Hybrid | https://www.linkedin.com/company/check-point-software-technologies |
-| **VikingCloud** | USA | ✅ - Taguig | ✅ - Hybrid | https://www.linkedin.com/company/vikingcloud |
+| **N‑able** | USA | ✅ - Taguig | ✅ - Hybrid | FS202101163 | https://www.linkedin.com/company/n-able |
+| **Theos** | Singapore | ✅ - Taguig | ✅ - Hybrid | CS201908617 | https://www.linkedin.com/company/theos-cyber |
+| **NCC Group** | England | ✅ - Taguig | ✅ - Hybrid | 2023060103372-00 | https://www.linkedin.com/company/ncc-group |
+| **Continent 8** | USA | ✅ - Makati | ✅ - Hybrid | 2024010131186-22 | https://www.linkedin.com/company/continent-8-technologies |
+| **Kroll** | USA | ✅ - Makati | ✅ - Hybrid | 2022050052344-01 | https://www.linkedin.com/company/kroll |
+| **Bright Defense** | USA | ❌ | ✅ - Fully Remote | - | https://www.linkedin.com/company/brightdefense/ |
+| **CommandLink** | USA | ❌ | ✅ - Fully Remote | - | https://www.linkedin.com/company/commandlink/ |
+| **Check Point** | USA | ✅ - Makati | ✅ - Hybrid | CS201822921 | https://www.linkedin.com/company/check-point-software-technologies |
+| **Viking Cloud** | USA | ✅ - Taguig | ✅ - Hybrid | 2022060054949-06 | https://www.linkedin.com/company/vikingcloud |
+| **Kajabi** | USA | ✅ - Pasig | ✅ - Hybrid | 2021100030216-27 | https://www.linkedin.com/company/kajabi/ |
 
 ---
 
