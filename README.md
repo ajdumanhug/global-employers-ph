@@ -34,7 +34,7 @@ To be listed, a company must meet at least **two** of the following:
 ## 📋 Company List
 
 | Company Name   | HQ Country | PH Office | Remote OK | SEC Number | LinkedIn |
-| --- | --- | --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 | **N‑able** | USA | ✅ - Taguig | ✅ - Hybrid | FS202101163 | https://www.linkedin.com/company/n-able |
 | **Theos** | Singapore | ✅ - Taguig | ✅ - Hybrid | CS201908617 | https://www.linkedin.com/company/theos-cyber |
 | **NCC Group** | England | ✅ - Taguig | ✅ - Hybrid | 2023060103372-00 | https://www.linkedin.com/company/ncc-group |
@@ -48,7 +48,8 @@ To be listed, a company must meet at least **two** of the following:
 | **Bright Defense** | USA | ❌ | ✅ - Fully Remote | - | https://www.linkedin.com/company/brightdefense |
 | **CommandLink** | USA | ❌ | ✅ - Fully Remote | - | https://www.linkedin.com/company/commandlink |
 | **Infotrust** | Australia | ❌ | ✅ - Fully Remote | - | https://www.linkedin.com/company/infotrustco |
-| **NEVERHACK** | France |  ❌ | ✅ - Fully Remote | - | https://www.linkedin.com/company/neverhack-france |
+| **NEVERHACK** | France | ❌ | ✅ - Fully Remote | - | https://www.linkedin.com/company/neverhack-france |
+| **RedLegg** | USA | ❌ | ✅ - Fully Remote | - | https://www.linkedin.com/company/redlegg |
 
 ---
 
