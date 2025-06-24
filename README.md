@@ -43,6 +43,7 @@ To be listed, a company must meet at least **two** of the following:
 | **Bright Defense** | USA | ❌ | ✅ - Fully Remote | https://www.linkedin.com/company/brightdefense/ |
 | **CommandLink** | USA | ❌ | ✅ - Fully Remote | https://www.linkedin.com/company/commandlink/ |
 | **Check Point** | USA | ✅ - Makati | ✅ - Hybrid | https://www.linkedin.com/company/check-point-software-technologies |
+| **VikingCloud** | USA | ✅ - Taguig | ✅ - Hybrid | https://www.linkedin.com/company/vikingcloud |
 
 ---
 
