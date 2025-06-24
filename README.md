@@ -42,11 +42,12 @@ To be listed, a company must meet at least **two** of the following:
 | **Continent 8** | USA | ✅ - Makati | ✅ - Hybrid | 2024010131186-22 | https://www.linkedin.com/company/continent-8-technologies |
 | **Kroll** | USA | ✅ - Makati | ✅ - Hybrid | 2022050052344-01 | https://www.linkedin.com/company/kroll |
 | **Check Point** | USA | ✅ - Makati | ✅ - Hybrid | CS201822921 | https://www.linkedin.com/company/check-point-software-technologies |
-| **Kajabi** | USA | ✅ - Pasig | ✅ - Hybrid | 2021100030216-27 | https://www.linkedin.com/company/kajabi/ |
+| **Kyndryl** | USA | ✅ - Makati | ✅ - Hybrid | 2021020006272-60 | https://www.linkedin.com/company/kyndryl |
+| **Kajabi** | USA | ✅ - Pasig | ✅ - Hybrid | 2021100030216-27 | https://www.linkedin.com/company/kajabi |
 | **Workstreet** | USA | ❌ | ✅ - Fully Remote | - | https://www.linkedin.com/company/trustworkstreet |
-| **Bright Defense** | USA | ❌ | ✅ - Fully Remote | - | https://www.linkedin.com/company/brightdefense/ |
-| **CommandLink** | USA | ❌ | ✅ - Fully Remote | - | https://www.linkedin.com/company/commandlink/ |
-| **Infotrust** | Australia | ❌ | ✅ - Fully Remote | - | https://www.linkedin.com/company/infotrustco/ |
+| **Bright Defense** | USA | ❌ | ✅ - Fully Remote | - | https://www.linkedin.com/company/brightdefense |
+| **CommandLink** | USA | ❌ | ✅ - Fully Remote | - | https://www.linkedin.com/company/commandlink |
+| **Infotrust** | Australia | ❌ | ✅ - Fully Remote | - | https://www.linkedin.com/company/infotrustco |
 
 ---
 
