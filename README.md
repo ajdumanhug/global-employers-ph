@@ -51,6 +51,7 @@ To be listed, a company must meet at least **two** of the following:
 | **NEVERHACK** | France | ❌ | ✅ - Fully Remote | - | https://www.linkedin.com/company/neverhack-france |
 | **RedLegg** | USA | ❌ | ✅ - Fully Remote | - | https://www.linkedin.com/company/redlegg |
 | **FrankieOne** | Australia | ❌ | ✅ - Fully Remote | - | https://www.linkedin.com/company/frankieone |
+| **Bugcrowd** | USA | ❌ | ✅ - Fully Remote | - | https://www.linkedin.com/company/bugcrowd |
 
 ---
 
