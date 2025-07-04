@@ -44,6 +44,7 @@ To be listed, a company must meet at least **two** of the following:
 | **Check Point** | USA | ✅ - Makati | ✅ - Hybrid | CS201822921 | https://www.linkedin.com/company/check-point-software-technologies |
 | **Kyndryl** | USA | ✅ - Makati | ✅ - Hybrid | 2021020006272-60 | https://www.linkedin.com/company/kyndryl |
 | **Kajabi** | USA | ✅ - Pasig | ✅ - Hybrid | 2021100030216-27 | https://www.linkedin.com/company/kajabi |
+| **Accenture** | Ireland | ✅ - Mandaluyong | ✅ - Hybrid | 0000199207 | https://www.linkedin.com/company/accenture/ |
 | **Workstreet** | USA | ❌ | ✅ - Fully Remote | - | https://www.linkedin.com/company/trustworkstreet |
 | **Bright Defense** | USA | ❌ | ✅ - Fully Remote | - | https://www.linkedin.com/company/brightdefense |
 | **CommandLink** | USA | ❌ | ✅ - Fully Remote | - | https://www.linkedin.com/company/commandlink |
@@ -53,6 +54,7 @@ To be listed, a company must meet at least **two** of the following:
 | **FrankieOne** | Australia | ❌ | ✅ - Fully Remote | - | https://www.linkedin.com/company/frankieone |
 | **Bugcrowd** | USA | ❌ | ✅ - Fully Remote | - | https://www.linkedin.com/company/bugcrowd |
 | **YesWeHack** | France | ❌ | ✅ - Fully Remote | - | https://www.linkedin.com/company/yes-we-hack |
+
 
 ---
 
